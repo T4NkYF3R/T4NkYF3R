@@ -2,13 +2,12 @@
 
 <h2 align=center> I'm Nicolas, a software developper student</h2>
 
-- 💻 I'm in **2nd year** at **EPITCH**
+- 💻 I'm in **3rd year** at **EPITCH**
 
 - 👨🏻‍💻 I'm currently learning:
     - **C**
     - **C++**
     - **Python**
-    - **Haskell**
 
 - 📬 How to contact me ?
     - **nicolas.negron@laposte.net**
