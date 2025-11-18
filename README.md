@@ -6,7 +6,7 @@
 ### 💻 I'm in **3rd year** at **EPITECH**
 - ### 🎯 **Overall GPA**
     <p>
-      <img src="https://img.shields.io/badge/3.35%20%2F%204.0-00b300?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/3.35%20%2F%204.0-66cc66?style=for-the-badge"/>
     </p>
 
 - ### 📊 **GPA Breakdown**
@@ -21,60 +21,60 @@
       <tr>
         <td align=center rowspan="2"><b>1</b></td>
         <td align=center>S1</td>
-        <td align=center><span style="color: #ff9900">2.72</span></td>
+        <td align=center><img src="https://img.shields.io/badge/2.72-ffff00?style=for-the-badge"/></td>
         <td align=center></td>
       </tr>
       <tr>
         <td align=center>S2</td>
-        <td align=center><span style="color: #66cc66">3.31</span></td>
+        <td align=center><img src="https://img.shields.io/badge/3.35-66cc66?style=for-the-badge"/></td>
         <td align=center></td>
       </tr>
       <!-- Year 2 -->
       <tr>
         <td align=center rowspan="2"><b>2</b></td>
         <td align=center>S3</td>
-        <td align=center><span style="color: #00b300"><b>4.00</b></span></td>
+        <td align=center><img src="https://img.shields.io/badge/4.00-00b300?style=for-the-badge"/></td>
         <td align=center></td>
       </tr>
       <tr>
         <td align=center>S4</td>
-        <td align=center><span style="color: #66cc66">3.19</span></td>
+        <td align=center><img src="https://img.shields.io/badge/3.19-66cc66?style=for-the-badge"/></td>
         <td align=center></td>
       </tr>
       <!-- Year 3 -->
       <tr>
         <td align=center rowspan="2"><b>3</b></td>
         <td align=center>S5</td>
-        <td align=center><span style="color: #00b300"><b>4.00</b></span></td>
+        <td align=center><img src="https://img.shields.io/badge/4.00-00b300?style=for-the-badge"/></td>
         <td align=center><i>current</i></td>
       </tr>
       <tr>
         <td align=center>S6</td>
-        <td align=center><span style="color: #">—</span></td>
+        <td align=center>—</td>
         <td align=center></td>
       </tr>
       <!-- Year 4 -->
       <tr>
         <td align=center rowspan="2"><b>4</b></td>
         <td align=center>S7</td>
-        <td align=center><span style="color: #">—</span></td>
+        <td align=center>—</td>
         <td align=center></td>
       </tr>
       <tr>
         <td align=center>S8</td>
-        <td align=center><span style="color: #">—</span></td>
+        <td align=center>—</td>
         <td align=center></td>
      </tr>
      <!-- Year 5 -->
      <tr>
         <td align=center rowspan="2"><b>5</b></td>
         <td align=center>S9</td>
-        <td align=center><span style="color: #">—</span></td>
+        <td align=center>—</td>
         <td align=center></td>
       </tr>
       <tr>
         <td align=center>S10</td>
-        <td align=center><span style="color: #">—</span></td>
+        <td align=center>—</td>
         <td align=center></td>
       </tr>
     </table>
