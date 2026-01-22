@@ -45,7 +45,7 @@
       <tr>
         <td align=center rowspan="2"><b>3</b></td>
         <td align=center>S5</td>
-        <td align=center><img src="https://img.shields.io/badge/3.74-66cc66?style=for-the-badge"/></td>
+        <td align=center><img src="https://img.shields.io/badge/3.74-33c033?style=for-the-badge"/></td>
         <td align=center><i>current</i></td>
       </tr>
       <tr>
