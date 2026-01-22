@@ -6,7 +6,7 @@
 ### 💻 I'm in **3rd year** at **EPITECH**
 - ### 🎯 **Overall GPA**
     <p>
-      <img src="https://img.shields.io/badge/3.32%20%2F%204.0-66cc66?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/3.36%20%2F%204.0-66cc66?style=for-the-badge"/>
     </p>
 
 - ### 📊 **GPA Breakdown**
@@ -45,7 +45,7 @@
       <tr>
         <td align=center rowspan="2"><b>3</b></td>
         <td align=center>S5</td>
-        <td align=center><img src="https://img.shields.io/badge/3.57-66cc66?style=for-the-badge"/></td>
+        <td align=center><img src="https://img.shields.io/badge/3.74-66cc66?style=for-the-badge"/></td>
         <td align=center><i>current</i></td>
       </tr>
       <tr>
